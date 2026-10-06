@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio02-academia\\exercicio02-academia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|solutionrelative:exercicio02-academia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio02-academia\\exercicio02-academia\\views\\academia\\musculacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|solutionrelative:exercicio02-academia\\views\\academia\\musculacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio02-academia\\exercicio02-academia\\controllers\\academiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|solutionrelative:exercicio02-academia\\controllers\\academiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio02-academia\\exercicio02-academia\\views\\academia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|solutionrelative:exercicio02-academia\\views\\academia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio02-academia\\exercicio02-academia\\views\\academia\\planos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|solutionrelative:exercicio02-academia\\views\\academia\\planos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio02-academia\\exercicio02-academia\\views\\academia\\cardio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A04C130-BB9E-44D3-89EA-F094EC9EB9A5}|Exercicio02-Academia\\Exercicio02-Academia.csproj|solutionrelative:exercicio02-academia\\views\\academia\\cardio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exercicio02-Academia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exercicio02-Academia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:39:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Planos.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Academia\\Planos.cshtml",
+              "RelativeDocumentMoniker": "Exercicio02-Academia\\Views\\Academia\\Planos.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Academia\\Planos.cshtml",
+              "RelativeToolTip": "Exercicio02-Academia\\Views\\Academia\\Planos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:35:54.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cardio.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Academia\\Cardio.cshtml",
+              "RelativeDocumentMoniker": "Exercicio02-Academia\\Views\\Academia\\Cardio.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Academia\\Cardio.cshtml",
+              "RelativeToolTip": "Exercicio02-Academia\\Views\\Academia\\Cardio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:35:41.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musculacao.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Academia\\Musculacao.cshtml",
+              "RelativeDocumentMoniker": "Exercicio02-Academia\\Views\\Academia\\Musculacao.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Academia\\Musculacao.cshtml",
+              "RelativeToolTip": "Exercicio02-Academia\\Views\\Academia\\Musculacao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:35:28.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Academia\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exercicio02-Academia\\Views\\Academia\\Index.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Views\\Academia\\Index.cshtml",
+              "RelativeToolTip": "Exercicio02-Academia\\Views\\Academia\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:35:07.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcademiaController.cs",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Controllers\\AcademiaController.cs",
+              "RelativeDocumentMoniker": "Exercicio02-Academia\\Controllers\\AcademiaController.cs",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio02-Academia\\Exercicio02-Academia\\Controllers\\AcademiaController.cs",
+              "RelativeToolTip": "Exercicio02-Academia\\Controllers\\AcademiaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:31:59.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

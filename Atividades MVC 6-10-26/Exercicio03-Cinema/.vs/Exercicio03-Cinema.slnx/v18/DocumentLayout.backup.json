@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio03-cinema\\exercicio03-cinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|solutionrelative:exercicio03-cinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio03-cinema\\exercicio03-cinema\\views\\cinema\\ingressos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|solutionrelative:exercicio03-cinema\\views\\cinema\\ingressos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio03-cinema\\exercicio03-cinema\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|solutionrelative:exercicio03-cinema\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio03-cinema\\exercicio03-cinema\\views\\cinema\\filmes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|solutionrelative:exercicio03-cinema\\views\\cinema\\filmes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|c:\\backend\\atividades mvc 6-10-26\\exercicio03-cinema\\exercicio03-cinema\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0458566-3D4D-47AB-A79F-CD06518E7D5F}|Exercicio03-Cinema\\Exercicio03-Cinema.csproj|solutionrelative:exercicio03-cinema\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exercicio03-Cinema\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exercicio03-Cinema\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T16:01:15.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingressos.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Views\\Cinema\\Ingressos.cshtml",
+              "RelativeDocumentMoniker": "Exercicio03-Cinema\\Views\\Cinema\\Ingressos.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Views\\Cinema\\Ingressos.cshtml",
+              "RelativeToolTip": "Exercicio03-Cinema\\Views\\Cinema\\Ingressos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:48:08.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filmes.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Views\\Cinema\\Filmes.cshtml",
+              "RelativeDocumentMoniker": "Exercicio03-Cinema\\Views\\Cinema\\Filmes.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Views\\Cinema\\Filmes.cshtml",
+              "RelativeToolTip": "Exercicio03-Cinema\\Views\\Cinema\\Filmes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:47:50.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Views\\Cinema\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exercicio03-Cinema\\Views\\Cinema\\Index.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Views\\Cinema\\Index.cshtml",
+              "RelativeToolTip": "Exercicio03-Cinema\\Views\\Cinema\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T14:47:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "Exercicio03-Cinema\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Exercicio03-Cinema\\Exercicio03-Cinema\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "Exercicio03-Cinema\\Controllers\\CinemaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:45:21.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

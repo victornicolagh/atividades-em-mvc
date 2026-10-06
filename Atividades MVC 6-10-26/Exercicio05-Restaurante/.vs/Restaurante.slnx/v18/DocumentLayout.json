@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|c:\\backend\\atividades mvc 6-10-26\\restaurante\\restaurante\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|c:\\backend\\atividades mvc 6-10-26\\restaurante\\restaurante\\views\\restaurante\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\views\\restaurante\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|c:\\backend\\atividades mvc 6-10-26\\restaurante\\restaurante\\views\\restaurante\\cardapio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\views\\restaurante\\cardapio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|c:\\backend\\atividades mvc 6-10-26\\restaurante\\restaurante\\controllers\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\controllers\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|c:\\backend\\atividades mvc 6-10-26\\restaurante\\restaurante\\views\\restaurante\\bebidas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\views\\restaurante\\bebidas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|c:\\backend\\atividades mvc 6-10-26\\restaurante\\restaurante\\views\\restaurante\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E6E8C5-1779-4DE5-8BCE-9E3A2E849A4D}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\views\\restaurante\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Restaurante\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Restaurante\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T16:27:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contato.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Restaurante\\Contato.cshtml",
+              "RelativeDocumentMoniker": "Restaurante\\Views\\Restaurante\\Contato.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Restaurante\\Contato.cshtml",
+              "RelativeToolTip": "Restaurante\\Views\\Restaurante\\Contato.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T16:24:43.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bebidas.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Restaurante\\Bebidas.cshtml",
+              "RelativeDocumentMoniker": "Restaurante\\Views\\Restaurante\\Bebidas.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Restaurante\\Bebidas.cshtml",
+              "RelativeToolTip": "Restaurante\\Views\\Restaurante\\Bebidas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T16:18:09.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cardapio.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Restaurante\\Cardapio.cshtml",
+              "RelativeDocumentMoniker": "Restaurante\\Views\\Restaurante\\Cardapio.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Restaurante\\Cardapio.cshtml",
+              "RelativeToolTip": "Restaurante\\Views\\Restaurante\\Cardapio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T16:13:54.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Restaurante\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restaurante\\Views\\Restaurante\\Index.cshtml",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Views\\Restaurante\\Index.cshtml",
+              "RelativeToolTip": "Restaurante\\Views\\Restaurante\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T16:10:33.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Controllers\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Controllers\\Restaurante.cs",
+              "ToolTip": "C:\\BackEnd\\Atividades MVC 6-10-26\\Restaurante\\Restaurante\\Controllers\\Restaurante.cs",
+              "RelativeToolTip": "Restaurante\\Controllers\\Restaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:05:22.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

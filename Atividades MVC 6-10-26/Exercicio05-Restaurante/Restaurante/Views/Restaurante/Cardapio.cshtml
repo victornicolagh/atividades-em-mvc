@@ -1,0 +1,31 @@
+﻿@{
+    Layout = "_Layout";
+    var pratos = new[]
+    {
+        new { Nome = "Bife à Parmegiana", Descricao = "Bife empanado coberto com molho de tomate e queijo gratinado.", Preco = 38.90m },
+        new { Nome = "Moqueca Capixaba", Descricao = "Peixe cozido lentamente com tomate, cebola, pimentão e coentro.", Preco = 46.50m },
+        new { Nome = "Lasanha de Frango", Descricao = "Massas intercaladas com molho branco, frango desfiado e queijo.", Preco = 32.00m },
+        new { Nome = "Risoto de Camarão", Descricao = "Arroz arbóreo cremoso com camarões salteados e vinho branco.", Preco = 49.90m },
+        new { Nome = "Salada Caesar com Frango", Descricao = "Alface, croutons, parmesão e tiras de frango grelhado.", Preco = 27.50m }
+    };
+}
+<h1>Cardápio do Restaurante Bon Gostue</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nome do Prato</th>
+            <th>Descrição</th>
+            <th class="text-end">Preço</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in pratos)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.Descricao</td>
+                <td class="text-end">@item.Preco.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
